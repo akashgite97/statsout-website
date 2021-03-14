@@ -1,0 +1,9 @@
+.navbrand {
+  font-size: 30px;
+  color: #383838;
+  font-weight: 700;
+}
+
+.navbrand:hover {
+  color: #651fff;
+}

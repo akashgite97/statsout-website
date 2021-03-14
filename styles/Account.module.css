@@ -1,0 +1,23 @@
+.btn {
+  background: #9c27b0;
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 30px;
+  margin-top: 15px;
+  border-bottom-color: #771e86;
+  font-size: 18px;
+  font-weight: 700;
+}
+.btn:hover {
+  background-color: #651fff;
+  color: #651fff;
+}
+
+.card {
+  max-width: 50rem;
+  border-left: 0.5em solid #fbc02d;
+  background: rgba(251, 192, 45, 0.6);
+}
+
+.signin-form {
+}
